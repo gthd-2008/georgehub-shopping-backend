@@ -14,6 +14,3 @@ from . import admin_routes
 
 # List all blueprints to register
 blueprints = [product_bp, category_bp, review_bp, admin_bp]
-# thanks again
-# no i now how to do it now
-# thanks. I will try it out
